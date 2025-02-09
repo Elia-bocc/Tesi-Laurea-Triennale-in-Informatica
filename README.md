@@ -45,3 +45,6 @@ Da questo lavoro sono stati prodotti dei piccoli datasets annotati manualmente:
   - disease.csv contiene articoli (e annotazioni) relativi alle malattie
   - sport.csv contiene articoli (e annotazioni) relativi agli sport
   - sport_disease contiene articoli (e annotazioni) relativi sia a malattie che sport
+
+## Author
+Elia Boccini eliaboccini@gmail.com
