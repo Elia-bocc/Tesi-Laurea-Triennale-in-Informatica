@@ -1,4 +1,4 @@
-# Tesi Laurea Triennale in Informatica Pisa febbraio 2024
+# Tesi Laurea Triennale in Informatica Pisa
 
 ## Abstract
 
