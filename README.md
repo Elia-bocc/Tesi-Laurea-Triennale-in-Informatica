@@ -3,7 +3,7 @@
 ## Abstract
 
 In questo lavoro di tesi sono state esplorate differenti tecniche di estrazione di entità nominate
-in due domini affini, malattie e sport, con la finalit`a di generare, attraverso la
+in due domini affini, malattie e sport, con la finalità di generare, attraverso la
 combinazione delle due migliori tecniche, un nuovo strumento di elaborazione di testi
 biomedico-sportivi, utile per ulteriori studi sulle relazioni multi-dominio (malattie e sport
 in questo caso).
